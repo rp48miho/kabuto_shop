@@ -1,5 +1,4 @@
 # kabuto_shop
-```html
 <!DOCTYPE html>
 <html lang="ja">
 <head>
